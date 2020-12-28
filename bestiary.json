@@ -1,0 +1,942 @@
+[
+    {
+        "name": "Animated Axe",
+        "height": "1.5 ft",
+        "weight": "80 lbs",
+        "levels": [46],
+        "locations": ["Taverley Dungeon"],
+        "appearance": "Large sharp axe.\nThat flies.",
+        "description": "Little is known about these weapons, or how they came about.\nSome people claim they are the unforeseen side effect of lazy Mages who didnt want to chop down their own trees just to cook dinner; others claim they are a secret weapon developed by Zamorakian followers to create havoc and destruction.\nEveryone agrees they hurt when they hit you.",
+        "likes": "Separating you from your limbs.",
+        "dislikes": "Getting rusty.",
+        "ids": [295]
+    },
+    {
+        "name": "Bandit",
+        "height": "5 ft 11 in",
+        "weight": "235 lbs",
+        "levels": [29],
+        "locations": ["The Wilderness"],
+        "appearance": "Human",
+        "description": "They live by the unique Bandits' Code of stealing from the rich and giving to the poor.\nIf you define 'the poor' as them and 'the rich' as everyone else.",
+        "likes": "Shiny gold coins. And lots of them. Kept in easy to open moneybags.",
+        "dislikes": "The long arm of the Law.",
+        "ids": [232, 234]
+    },
+    {
+        "name": "Barbarian",
+        "height": "6 ft 2 in",
+        "weight": "235 lbs",
+        "levels": [16],
+        "locations": ["The Barbarian Village"],
+        "appearance": "Muscle-clad bearded warriors",
+        "description": "Self-sufficient.\nHaving plundered and pillaged in the tribal warfare of days gone by, some contemporary barbarians have now dropped anchor with settlements of their own.\nRemaining relatively neutral, they could be a useful force indeed if anyone could tempt them into an alliance...",
+        "likes": "Wood-chopping",
+        "dislikes": "Anyone who uses magic in battle",
+        "ids": [76]
+    },
+    {
+        "name": "Bear",
+        "height": "5 ft (8ft at full stretch)",
+        "weight": "600 lbs",
+        "levels": [24, 26],
+        "locations": ["Bears like to roam the forests"],
+        "appearance": "Large and deceptively cuddly looking",
+        "description": "Bears are happiest when minding their own business, but they live in a world which values their fur. If disturbed by an adventurer in search of loot, these noble beasts pack quite a punch!",
+        "likes": "Hibernating",
+        "dislikes": "Fur-lined jackets",
+        "ids": [8, 49, 188]
+    },
+    {
+        "name": "Black Dragon",
+        "height": "32 ft long",
+        "weight": "See Red Dragon",
+        "levels": [227],
+        "locations": [
+            "Taverley Dungeon",
+            "These awesome destroyers can usually be identified by the large pile of human bones that tend to surround them"
+        ],
+        "appearance": "Jet black. That reddy-orange tint is actually just an optical illusion, because one is normally viewing them through a torrent of flames",
+        "description": "King-like",
+        "likes": "Their long-held supremacy, which is now waning",
+        "dislikes": "The non-stop nature of evolution itself ...as shown by the recent emergence of the King Black Dragon",
+        "ids": [291]
+    },
+    {
+        "name": "Black Knight",
+        "height": "6 ft on the nose",
+        "weight": "200 lbs exactly: robust but fighting fit",
+        "levels": [46],
+        "locations": [
+            "Black Knight Fortress in the north, Taverley Dungeon, and the Lava Maze (wilderness)"
+        ],
+        "appearance": "Large and foreboding, it is no wonder that these bad boys were once the talk of Runescape. And even now they continue to swing their weapons with the full weight of their illustrious history.",
+        "description": "Educated and refined, these dashing villains like to unwind over a glass of mulled wine and Baxtorian poetry. They spit on peasants and refuse to pay taxes - but they still know how to treat a lady",
+        "likes": "Mulled wine and poetry. Remember this if ever you lack the motivation to decapitate someone",
+        "dislikes": "Peasants and taxes",
+        "ids": [66]
+    },
+    {
+        "name": "Blue Dragon",
+        "height": "5 ft",
+        "weight": "290 lbs",
+        "levels": [50, 105],
+        "locations": ["Taverley Dungeon"],
+        "appearance": "As their name suggests, these magnificent creatures can be identified by their distinctive sky blue appearance",
+        "description": "The Blue Dragons guard the early stages of Taverley Dungeon. A beautiful yet fearsome creature, these guardians are but a taste of things to come",
+        "likes": "The tranquility of Taverley Lake. But prized for their flesh, these beasts now take refuge in the dungeon, where would-be attackers must fight the dragon on his own terms",
+        "dislikes": "Rangers",
+        "ids": [203, 202]
+    },
+    {
+        "name": "Camel",
+        "height": "5 ft 8 in",
+        "weight": "280 lbs",
+        "levels": [25],
+        "locations": ["Al Kharid"],
+        "appearance": "Lumpy",
+        "description": "Sleepy",
+        "likes": "Sandy places",
+        "dislikes": "People who try to use them as horses, in direct defiance of Saradomin's teachings",
+        "ids": [13]
+    },
+    {
+        "name": "Chaos Druid",
+        "height": "5 ft 8 in",
+        "weight": "210 lbs",
+        "levels": [18],
+        "locations": ["Taverly Dungeon"],
+        "appearance": "They dress in the distinctive blood red robes of Zamorak",
+        "description": "Masters of herblore, their friendly demeanour belies a dangerous knowledge of the dark arts",
+        "likes": "Using runestones as a source of darkness",
+        "dislikes": "Religious factions. As Chaos Druids, they have links with both Guthix and Zamorak. Being something of an unknown quantity, the chaos druids could be the ones to tip the balance in a major struggle",
+        "ids": [270]
+    },
+    {
+        "name": "Chaos Druid Warrior",
+        "height": "5 ft 10 in",
+        "weight": "180 lbs",
+        "levels": [44],
+        "locations": ["Yanille Dungeon"],
+        "appearance": "See Chaos Druid.\nBut with more armour and weaponry.",
+        "description": "A more bloodthirsty version of the Chaos Druids - rumours say all their solitude has driven them insane with bloodlust",
+        "likes": "The thrill of victory",
+        "dislikes": "The agony of defeat",
+        "ids": [555]
+    },
+    {
+        "name": "Chaos Dwarf",
+        "height": "4 ft 3 in.",
+        "weight": "220 lbs",
+        "levels": [59],
+        "locations": [
+            "Chaos dwarves can be found in dungeons and the wilderness"
+        ],
+        "appearance": "Slightly heftier than their good ancestors, these dwarves clearly have an appetite for destruction. But more remarkable is their reddish hue, a clear sign of their beserker tendencies",
+        "description": "Homicidal. It is believed that the chaos dwarves have been touched by Zamorak himself",
+        "likes": "Slamming an axe in your face",
+        "dislikes": "Polite conversation",
+        "ids": [190]
+    },
+    {
+        "name": "Chicken",
+        "height": "12 in",
+        "weight": "2 lbs",
+        "levels": [3],
+        "locations": ["Chicken pens, in Lumbridge and around Runescape"],
+        "appearance": "Mouth-watering",
+        "description": "Chivvied. Their hurried looking walk first evolved in Runescape, where beginners prey on chickens to up their levels",
+        "likes": "A simple life",
+        "dislikes": "Meeting new people",
+        "ids": [3]
+    },
+    {
+        "name": "Cow",
+        "height": "5 ft 10 in.",
+        "weight": "1,500 lbs",
+        "levels": [8],
+        "locations": ["Enclosures north of Lumbridge, and near crafting guild"],
+        "appearance": "Beefy",
+        "description": "Passive. Rumours about cows being armed to the teeth proved false. However, their hides are often used by people to make leather goods",
+        "likes": "Vegetarians",
+        "dislikes": "Comments about their sanity",
+        "ids": [6, 217]
+    },
+    {
+        "name": "Dark Warrior",
+        "height": "5 ft 10 in.",
+        "weight": "200 lbs",
+        "levels": [21],
+        "locations": ["The Wilderness"],
+        "appearance": "Well-armed",
+        "description": "Mercenary. Dark warriors do not enjoy the same status as Dark wizards or Dark knights, so they tend to hang around in small groups of like-minded individuals",
+        "likes": "To stay one step ahead of the authorities",
+        "dislikes": "Other followers of Zamorak. Despite their shared allegiance, the Dark warriors prefer to keep themselves to themselves. Bear this in mind if you plan on disturbing them",
+        "ids": [199]
+    },
+    {
+        "name": "Dark Wizard",
+        "height": "5 ft 8 in",
+        "weight": "160 lbs",
+        "levels": [13, 25],
+        "locations": [
+            "Dark Wizards' Tower; the Stone Circle south of Varrock; the Wilderness"
+        ],
+        "appearance": "Like the wizard. Only darker",
+        "description": "Machiavellian: Dark Wizards will do anything to further the cause of Zamorak. And if that means burning many of their own number in the Wizards' Tower, then so be it",
+        "likes": "Treachery. For all their dark arts, it is ultimately their ability to deceive their fellow man that makes them so dangerous",
+        "dislikes": "People who think that they can't be trusted. The fact is that the incident with the Wizards' Tower was a one-off, and it'll never happen again. Surely you of all people could find it in your heart to give them a second chance?",
+        "ids": [57, 60]
+    },
+    {
+        "name": "Deadly Red Spider",
+        "height": "25 in",
+        "weight": "15 lbs",
+        "levels": [36],
+        "locations": ["Karamja Volcano, Varrock Sewers"],
+        "appearance": "Red",
+        "description": "Predatorial. But this is a two way process, as anyone trained in the art of apothecary knows that the Deadly Red Spider's eggs can be used to make a potent strength potion",
+        "likes": "Closing in for the kill. Dispensing with the usual small-talk, The Deadly Red Spider goes straight for the jugular",
+        "dislikes": "The whole \"which is better, red or green?\" debate",
+        "ids": [99]
+    },
+    {
+        "name": "Druid",
+        "height": "5 ft 8 in",
+        "weight": "160 lbs",
+        "levels": [29],
+        "locations": ["The Druid Circle and the Druid Village"],
+        "appearance": "Dressed in gleaming white robes, you could be forgiven for forgetting that the druids are in fact neutral",
+        "description": "It is said that the druids may have used the runestones, long before the mages of the East discovered them. But the druids are a solitary lot, and as their numbers dwindle it is feared that their secrets may die with them",
+        "likes": "Making potions, using their herblore abilities. Druids also rely on the power of the runestone, which may be the unifying factor behind all that is seen and unseen",
+        "dislikes": "Socialising. Their reluctance to mix with other has alienated them from all those who are suspicious of druid rituals- from townsfolk to the followers of Saradomin",
+        "ids": [200]
+    },
+    {
+        "name": "Dungeon Rat",
+        "height": "Approx 1 ft long",
+        "weight": "40 lbs",
+        "levels": [16],
+        "locations": ["Under Clock Tower"],
+        "appearance": "Ratty",
+        "description": "A very sociable creature (to other rats anyway), rats tend to be found in large groups in areas with a lot of refuse, as they dont like to try too hard to find their food.",
+        "likes": "Recycling - mainly wasted food and corpses into Rat droppings.",
+        "dislikes": "Contrary to popular belief, is not that fond of cheese.",
+        "ids": [367]
+    },
+    {
+        "name": "Dwarf",
+        "height": "4 ft 2 in.",
+        "weight": "200 lbs",
+        "levels": ["18, with iron axe, iron helmet and leather armour"],
+        "locations": ["In and around the Ice Mountain"],
+        "appearance": "Short and stout",
+        "description": "Moody and dour. Though not very religious, dwarves show their respects to Guthix, the source of the iron ore which they mine so diligently",
+        "likes": "Difficult to say, since nothing seems to put them in a good mood. But they are at least less grumpy when they're making things",
+        "dislikes": "Some say that dwarves just don't like people, but this does not account for all the other races that irritate them. Their bark is worse than their bite, however",
+        "ids": [94]
+    },
+    {
+        "name": "Earth Warrior",
+        "height": "6 ft 1 in",
+        "weight": "260 lbs",
+        "levels": [52],
+        "locations": ["Edgeville Dungeon"],
+        "appearance": "Men made of earth",
+        "description": "Nobody is sure where they came from, or what they do for fun. Other than attacking players that is.",
+        "likes": "Nobody has ever been around them long enough to find out",
+        "dislikes": "Becoming muddy. This means something entirely different for Earth Warriors",
+        "ids": [584]
+    },
+    {
+        "name": "Farmer",
+        "height": "5 ft 10 in",
+        "weight": "180 lbs",
+        "levels": [15],
+        "locations": [
+            "Farmers turn up on farms and near windmills throughout Runescape"
+        ],
+        "appearance": "Human",
+        "description": "Despite their subsistence lifestyle, farmers are surprisingly affluent, and have even been known to horde valuable runestones. Could they be the missing link to the ancient mystery of the druids? It seems unlikely",
+        "likes": "A cooked breakfast",
+        "dislikes": "Trespassers walking on their land",
+        "ids": [63]
+    },
+    {
+        "name": "Forester",
+        "height": "5 ft 10 in",
+        "weight": "180 lbs",
+        "levels": [21],
+        "locations": ["McGrubor's Wood"],
+        "appearance": "Human",
+        "description": "Gentle forest dwelling folk, who make a meagre living out of felling trees and trapping animals for pelts and food.",
+        "likes": "Living in harmony with nature",
+        "dislikes": "Being attacked for easy experience",
+        "ids": [348]
+    },
+    {
+        "name": "Ghost",
+        "height": "N/A",
+        "weight": "N/A",
+        "levels": [12, 25],
+        "locations": ["Draynor Manor, Varrock sewers' dungeon"],
+        "appearance": "Ethereal",
+        "description": "Ghosts drift about in state of some distress, existing as spirits but outside the refuge of the gods",
+        "likes": "Large mansions to haunt, dance music",
+        "dislikes": "Being disturbed - this can cause them to attack",
+        "ids": [15, 53, 80, 178]
+    },
+    {
+        "name": "Giant",
+        "height": "7 ft 2 in",
+        "weight": "290 lbs",
+        "levels": [
+            "37 (giant)",
+            "62 (moss giant)",
+            "68 (ice giant)",
+            "109 (fire giant)"
+        ],
+        "locations": ["The wilderness and most dungeons"],
+        "appearance": "Gigantic",
+        "description": "Giants are said to be one of the oldest races in Runescape, which each type having evolved according to the different kinds of environment that they were exposed to",
+        "likes": "Personal space - as found in dungeons and the wilderness",
+        "dislikes": "Anyone who gets under their feet",
+        "ids": [61, 104, 594, 135, 344]
+    },
+    {
+        "name": "Giant Rat",
+        "height": "2 ft",
+        "weight": "120 lbs",
+        "levels": [8, 13],
+        "locations": [
+            "Lumbridge swamp, Varrock slums and sewers, and many a dungeon around Runescape"
+        ],
+        "appearance": "Dirty grey with beady eyes",
+        "description": "Unhygienic",
+        "likes": "To eat from rotting carcasses",
+        "dislikes": "Rat poison",
+        "ids": [19, 47, 177, 473]
+    },
+    {
+        "name": "Giant Spider",
+        "height": "30 in",
+        "weight": "20 lbs",
+        "levels": ["2 (Small spider", "8 (Giant spider)"],
+        "locations": [
+            "Giant spiders often hang out in Lumbridge castle basement, sewers and houses, before disappearing down giant plug holes"
+        ],
+        "appearance": "Eight-legged and hairy",
+        "description": "Incy-wincy; but watch out for the giant spider's bite",
+        "likes": "To try and try again",
+        "dislikes": "People who don't look where they're standing",
+        "ids": [34, 74]
+    },
+    {
+        "name": "Gnome",
+        "height": "2 ft 2 in",
+        "weight": "60 lbs",
+        "levels": ["3 (Gnome troop)", "23-31 (Guards)"],
+        "locations": ["The Tree Gnome village and Grand Tree stronghold"],
+        "appearance": "Pint-sized",
+        "description": "The gnomes are a spirited lot, always ready with a quip for those who stumble over them. They are also keen entrepreneurs, carving out restaurants and cocktail bars into their wooden abode",
+        "likes": "Gnomes like to stick together, forming tight-knit communities under the rule of a gnome king",
+        "dislikes": "The Runescape annual basketball tournament. So they play gnomeball instead",
+        "ids": [399, 409, 562, 582, 583, 586, 592, 593]
+    },
+    {
+        "name": "Goblin",
+        "height": "5 ft 4 in",
+        "weight": "180 lbs",
+        "levels": [7, "13 (spear"],
+        "locations": [
+            "Goblins are common right across Runescape, and particularly in the goblin village of north Asgarnia; around Lumbridge, and the woods near Port Sarim"
+        ],
+        "appearance": "Green and warty",
+        "description": "Whilst not exactly \"civilised\", goblins do build mud huts to form small communities. Cowardly and weak, they are good targets for low-level players",
+        "likes": "Eating slugs and worms",
+        "dislikes": "Complex mental challenges",
+        "ids": [62, 4]
+    },
+    {
+        "name": "Greater Demon",
+        "height": "8ft 6in",
+        "weight": "350 lbs",
+        "levels": [87],
+        "locations": [
+            "Entrana, Lava Maze (underground), ruins in (north-east) wilderness"
+        ],
+        "appearance": "As Zamorak's representative on Runescape, these demons are immediately recognisable by their capacity to kill you in a matter of seconds. And with the Greater Demon, what you see is what you get",
+        "description": "Not known",
+        "likes": "Being master of all that they survey",
+        "dislikes": "Cowards. If you go to fight a Greater Demon, don't run away or retreat. You'll still get killed, but at least he'll respect you more that way",
+        "ids": [184]
+    },
+    {
+        "name": "Grey Wolf",
+        "height": "Up to 7ft long",
+        "weight": "230 lbs",
+        "levels": [64],
+        "locations": ["The Wilderness"],
+        "appearance": "Like a Guard Dogs' meaner, crazier, and more bloodthirsty uncle.",
+        "description": "There are many people who claim the wolfs' reputation as a killer is undeserved, and that they rarely attack humans. Those people have never encountered a hungry pack of grey wolves. To the Grey Wolf, everything else is either dinner or potential dinner.",
+        "likes": "Running in packs looking for food.",
+        "dislikes": "Being called a Bad Dog.",
+        "ids": [243]
+    },
+    {
+        "name": "Guard",
+        "height": "5 ft 10in",
+        "weight": "220 lbs",
+        "levels": [28],
+        "locations": [
+            "Throughout the towns, wherever things may need guarding, especially gates and banks"
+        ],
+        "appearance": "Stout and intimidating, these guards give the distinct impression that they will not be open to negotation",
+        "description": "Inflexible. If a guard has been told not to let people past, he'll keep that entrance blocked come hell or high water. But if you just want to beat up some old man a few yards away, he'll conveniently turn a blind eye.It's just not his job to care",
+        "likes": "Maintaining order",
+        "dislikes": "The smell of corruption that seems to surround their pay masters - from local town councillors, right up to the top of the ladder",
+        "ids": [65, 100, 321]
+    },
+    {
+        "name": "Guard Dog",
+        "height": "6 ft long",
+        "weight": "170 lbs",
+        "levels": [46],
+        "locations": ["Brimhaven, Ardougne, McGrubor's Wood"],
+        "appearance": "Goes for the standard, no-nonsense guard-dog look",
+        "description": "Limited. These animals do nothing for the claim that a dog is a man's best friend. Unless your idea of a best friend is someone who rips your limbs off with their teeth",
+        "likes": "Barking at intruders",
+        "dislikes": "Cats",
+        "ids": [262]
+    },
+    {
+        "name": "Hellhound",
+        "height": "A whopping 9 ft long at full stretch",
+        "weight": "280 lbs",
+        "levels": [114],
+        "locations": ["Taverley Dungeon"],
+        "appearance": "Like a dog out of hell",
+        "description": "\"Zamorak's best friend\". but they're not too chummy with anyone else that they encounter",
+        "likes": "Eating anything",
+        "dislikes": "Being killed. Although this is pretty rare",
+        "ids": [294]
+    },
+    {
+        "name": "Hero",
+        "height": "6ft 2in",
+        "weight": "205 lbs",
+        "levels": [83],
+        "locations": [
+            "Hero's can be found in the cosmopolitan city of Ardougne, secretly hoping for some injustice to be perpetrated so that they can pounce to the rescue"
+        ],
+        "appearance": "With perfect abs and a well-chiselled jaw line, these All-Runescapian Heroes make you want to up your levels. If only so that you can do something to wipe that smug smile off their face",
+        "description": "Heroic",
+        "likes": "A challenge",
+        "dislikes": "Laziness - and particularly those parasites who would beg for \"free stuff\". Any hero worth his salt would strike down those freeloaders in a Runescape minute - were it not for the recent law that was passed to prevent the recreational execution of beggars",
+        "ids": [324]
+    },
+    {
+        "name": "Highwayman",
+        "height": "6ft",
+        "weight": "200 lbs",
+        "levels": [13],
+        "locations": [
+            "At major junctions: south of Draynor manor, and between Rimmington and Falador"
+        ],
+        "appearance": "Stylish, cape-wearing human",
+        "description": "Legendary. The highwayman is elegant and dashing: the thinking man's mugger. Although that isn't usually much consolation when he nicks your valuables",
+        "likes": "To prey on unsuspecting travellers, especially tourists ",
+        "dislikes": "The idea that he should travel on a horse... This can only be a myth",
+        "ids": [89]
+    },
+    {
+        "name": "Hobgoblin",
+        "height": "5ft 8in",
+        "weight": "200 lbs",
+        "levels": [32, "48 (spear)"],
+        "locations": [
+            "Hobgoblins can be found in the wilderness dungeons and the peninsula behind the crafting guild"
+        ],
+        "appearance": "Larger than their goblin ancestors, Hobgoblins are stronger, but even more slow witted",
+        "description": "If goblins are semi-civilised then hob-goblins are downright uncivilised. They attack indiscriminately, which does at least show a degree of fairness",
+        "likes": "To carry limpwurt roots to chew on and keep their teeth sharp. This is to help them devour opponents, rather than any real interest in personal hygiene",
+        "dislikes": "Comments about their appearance",
+        "ids": [67, 311]
+    },
+    {
+        "name": "Ice Spider",
+        "height": "12 in",
+        "weight": "25 lbs",
+        "levels": [64],
+        "locations": ["White Wolf Mountain, Wilderness ice plateau"],
+        "appearance": "Icy",
+        "description": "These battle-hardened arachnids represent the price of admission for many hardcore Runescapers.",
+        "likes": "Their inhospitable terrain, which gives them an immediate homefield advantage in any combat situation",
+        "dislikes": "Non-members who attempt to stray into the members' area. The non-members' inability to access this area deprives the ice spiders of a tasty snack",
+        "ids": [263]
+    },
+    {
+        "name": "Ice Warrior",
+        "height": "Varies",
+        "weight": "Unknown",
+        "levels": [57],
+        "locations": [
+            "Ice Giant's Cave, White Wolf Mountain dungeon, wilderness "
+        ],
+        "appearance": "Like men made of ice",
+        "description": "Mysterious",
+        "likes": "The question \"Do you want ice with that?\" where \"that\" refers to an pick-axe that is then embedded in some smart-alec's head",
+        "dislikes": "Smart-alecs (see above)",
+        "ids": [158]
+    },
+    {
+        "name": "Imp",
+        "height": "10 in",
+        "weight": "15 lbs",
+        "levels": [5],
+        "locations": ["Imps have an annoying habit of turning up everywhere"],
+        "appearance": "Small, with a distinctively bright red colour to them. Combine this with their cheeky impishness, and it's easy to see why some think of them as \"little devils\"",
+        "description": "Opportunistic. Imps love to steal little items, such as wool, beads, food and hats",
+        "likes": "Running away just when you're about to kill them",
+        "dislikes": "People who confuse them with party hats",
+        "ids": [114]
+    },
+    {
+        "name": "Jail Guard",
+        "height": "5 ft 9in",
+        "weight": "210 lbs",
+        "levels": [34],
+        "locations": ["South of Draynor Village"],
+        "appearance": "Greasy and unkempt, these jailers are still part of the human race- but only just",
+        "description": "Disturbing. These jailers take a malicious pleasure in the incarceration of their prisoners. In some ways they are as evil as the Dark Knights, although some say that the jailers come from a more limited gene pool",
+        "likes": "Doing their master's dirty work",
+        "dislikes": "Wise-cracking jailbirds, who usually get their better of their slow-witted captors",
+        "ids": [127]
+    },
+    {
+        "name": "Jogre",
+        "height": "5 ft 9in",
+        "weight": "300 lbs",
+        "levels": [58],
+        "locations": [
+            "The \"jogre\" or jungle ogre is frequently found in South Karamja, usually grouped together in clusters"
+        ],
+        "appearance": "Large and green skinned",
+        "description": "The jungle ogre is well camouflaged for life in jungle territories and often benefits from the element of surprise",
+        "likes": "Games of hide and seek with humans, who didn't know that they were playing until the jogre attacks",
+        "dislikes": "The assumption that they are just green skinned ogres. This prompts them to attack",
+        "ids": [523]
+    },
+    {
+        "name": "Jungle Spider",
+        "height": "25 in",
+        "weight": "15 lbs",
+        "levels": [47],
+        "locations": ["Karamja Jungle"],
+        "appearance": "Green and hairy",
+        "description": "Sneaky. Perfectly camouflaged for the overgrown terrain, if you can't actually see a jungle spider it's probably because there's one looking right at you",
+        "likes": "Lurking in the jungle",
+        "dislikes": "Players who complain because their \"best friends\" paid less for a party hat. These scrooges can look forward to a slow death on the web",
+        "ids": [521]
+    },
+    {
+        "name": "King Black Dragon",
+        "height": "40 ft long",
+        "weight": "How long is a piece of string? How heavy is a rock? What about a rock hard Dragon? We'll let you ask him",
+        "levels": [245],
+        "locations": [
+            "Dwelling somewhere in the wilderness, this dragon is blatantly the biggest baddest mother (or father) in all of Runescape... so far."
+        ],
+        "appearance": "Looks like Trouble!",
+        "description": "There are many different philosophies in RS, but the KBD subscribes to what we might call \"existentialism\"- the philosophy of doing whatever the heck you want",
+        "likes": "You, your friends, your family and even that other PKer you just met",
+        "dislikes": "You, your friends, your family and even that other PKer you just met",
+        "ids": [477]
+    },
+    {
+        "name": "Knight Of Ardougne",
+        "height": "6ft 1in",
+        "weight": "220 lbs",
+        "levels": [56],
+        "locations": ["City Of Ardougne"],
+        "appearance": "Human... underneath all the armour.",
+        "description": "Becoming a Knight has long been a favoured career choice for Ardougne's strongest and bravest young men, with their shiny armour and adherence to the rules of chivalry gaining them a certain reputation with the ladies.",
+        "likes": "Testing their prowess against each other in jousting duels for ladies handkerchiefs.",
+        "dislikes": "People who ignore their carefully constructed rules of chivalry",
+        "ids": [322]
+    },
+    {
+        "name": "Lesser Demon",
+        "height": "8ft 3in",
+        "weight": "320 lbs",
+        "levels": [79],
+        "locations": [
+            "Karamja, Melzar's Maze, Lava Maze, Wizard's Tower, Crandor"
+        ],
+        "appearance": "Red and horned",
+        "description": "Zamorakian",
+        "likes": "Cocky young upstarts",
+        "dislikes": "The term \"lesser\". A long and protracted legal battle resulted in several council members getting flame-grilled",
+        "ids": [22, 181]
+    },
+    {
+        "name": "Man",
+        "height": "5 ft 10in",
+        "weight": "175 lbs",
+        "levels": [9],
+        "locations": ["Humans are currently the dominant species on Runescape"],
+        "appearance": "Human",
+        "description": "Humans are certainly quite advanced creatures, building large communities and various labour-saving devices. Whether they are exactly \"civilised\", however, is more open for debate...",
+        "likes": "Dark suits",
+        "dislikes": "Being attacked by players trying to up their levels. This is where the phrase \"Why does everything always happen to me?\" comes from",
+        "ids": [11]
+    },
+    {
+        "name": "Monk",
+        "height": "6 ft",
+        "weight": "180 lbs",
+        "levels": [13],
+        "locations": ["The monastery to the west of Edgeville"],
+        "appearance": "Human",
+        "description": "Monastic. These men have achieved a level of devotion that few could hope to match",
+        "likes": "Saradomin",
+        "dislikes": "Zamorak",
+        "ids": [93]
+    },
+    {
+        "name": "Monk of Zamorak",
+        "height": "6 ft",
+        "weight": "180 lbs",
+        "levels": [19, 29],
+        "locations": [
+            "Lower level monks dwell in the Chaos Temple of north Asgarnia; higher level monks can also be found in Taverley Dungeon"
+        ],
+        "appearance": "Level 45 monks adorn themselves with the blood red robes of Zamorak",
+        "description": "Ungodly - at least as far as Saradomin is concerned. These monks have perverted His sacred rituals, and corrupted them to please their own hellish master. But don't fall prey to crusader zeal - many a Saradominist has rushed headlong into Taverley Dungeon, never to be seen again",
+        "likes": "Zamorak",
+        "dislikes": "Saradomin",
+        "ids": [140, 139]
+    },
+    {
+        "name": "Mountain Dwarf",
+        "height": "4ft 2in",
+        "weight": "200 lbs",
+        "levels": [18, 28],
+        "locations": ["Beneath Wolf Mountain"],
+        "appearance": "Vertically challenged",
+        "description": "These dwarves are happy just to be left to their own devices. They love nothing better than mining for ore and generally being at one with nature",
+        "likes": "The cool mountain air",
+        "dislikes": "Elves and horses",
+        "ids": [355, 356]
+    },
+    {
+        "name": "Mugger",
+        "height": "5 ft 10 in",
+        "weight": "160 lbs",
+        "levels": [10],
+        "locations": ["Varrock castle"],
+        "appearance": "Shifty looking",
+        "description": "The mugger is at the low-rent end of the mercerary lifestyle. With no real skill to his name, the mugger can never be sure that he will be able to rob you. But he'll certainly have a really good try - and you have to respect him for that",
+        "likes": "Weaklings",
+        "dislikes": "Thieves. Muggers are envious of these more skilled criminals",
+        "ids": [21]
+    },
+    {
+        "name": "Necromancer",
+        "height": "5 ft 11in",
+        "weight": "175 lbs",
+        "levels": [34],
+        "locations": ["Near the City of Ardougne"],
+        "appearance": "Necromancers are usually easily spotted by their pallid complexions, hatred of sunlight and strange smell of embalming fluids. They also tend to wear red with skull ornaments a lot.",
+        "description": "Have an unhealthy obsession with death. Unhealthy for players who encounter them who are not able to defeat large numbers of zombies anyway.",
+        "likes": "Adding new zombies to their growing armies of the undead.",
+        "dislikes": "Sunshine and cute furry animals.",
+        "ids": [358]
+    },
+    {
+        "name": "Ogre",
+        "height": "7 ft",
+        "weight": "300 lbs",
+        "levels": [58, "78 (Chieftain: steel chain mail, adamantite mace)"],
+        "locations": [
+            "Small numbers in Kandarin, although they have mostly been wiped out or captured by humans. Large numbers are located in the lands known as the Feldip Hills or \"Ogre Country\" to the south of Kandarin"
+        ],
+        "appearance": "Tall and muscular",
+        "description": "Brown skinned ogres form tribes and are primitive in nature. They tend to lumber around in a world of their own. It may be that they are deep in thought. But this seems unlikely ",
+        "likes": "Attacking people smaller than them.",
+        "dislikes": "Being wiped out by humans ",
+        "ids": [312, 525, 531]
+    },
+    {
+        "name": "Otherworldly Being",
+        "height": "N/A",
+        "weight": "N/A",
+        "levels": [66],
+        "locations": [
+            "The otherworldly beings can be found in the Lost City of Zanaris. Wherever that is."
+        ],
+        "appearance": "Otherworldly. Although some say they look like a cross between a ghost and a witch",
+        "description": "Nobody knows where they come from or why they do what they do...",
+        "likes": "Again, we don't really know this yet, but on face value these beings seem pretty happy just to be alive. Is that something that they could teach us?",
+        "dislikes": "Being attacked by other beings who come from another world other than the one inhabited by the otherworldly being: e.g. people like you. Whatever the outcome, such mindless displays of violence can't be doing much for intergalactic relations",
+        "ids": [298]
+    },
+    {
+        "name": "Paladin",
+        "height": "5 ft 10 in",
+        "weight": "190 lbs",
+        "levels": [71],
+        "locations": [
+            "Strutting around Ardougne, keeping a watchful eye from one day to the next"
+        ],
+        "appearance": "Stout and robust looking, these holy warriors defy the ageing process by keeping themselves in great condition. The barrel chests and firm biceps are just a bonus.",
+        "description": "Challenging: when a man takes the holy vow of a Paladin, he makes a life-long commitment",
+        "likes": "To uphold the values of Saradomin at all costs: \" It is not that Saradominism has been tried and found wanting: it is that Saradominism has been tried and found difficult\"",
+        "dislikes": "Pick-pockets in Ardougne. If this applies to you, just remember that their concept of mercy comes a definite second to their excellent swordsmanship",
+        "ids": [323, 632, 633]
+    },
+    {
+        "name": "Pirate",
+        "height": "5 ft 9 in",
+        "weight": "215 lbs",
+        "levels": [27, 30],
+        "locations": [
+            "Pirates call Karamja their home, but some can also be found rooting around the Ice Giant cave"
+        ],
+        "appearance": "Often seen sporting an eye-patch, pirates experience the highest rate of gouged eyes in Runescape",
+        "description": "Hearty.\n Pirates love eating, drinking and generally being merry. When it comes to having fun, nothing is too much expense- especially when they're spending your money!",
+        "likes": "Drinking",
+        "dislikes": "Being too far from the sea",
+        "ids": [137, 264]
+    },
+    {
+        "name": "Poison Spider",
+        "height": "12 in",
+        "weight": "25 lbs",
+        "levels": [63],
+        "locations": ["Taverley Dungeon, Lava Maze (wilderness)"],
+        "appearance": "Vile, pus-squirting creatures that probably aren't going to win any best-looking spider awards any time soon",
+        "description": "Hides in the undergrowth injecting smaller animals with venom for later consumption.",
+        "likes": "the death spasms of prey as they notice its bite too late",
+        "dislikes": "apothecaries",
+        "ids": [292]
+    },
+    {
+        "name": "Red Dragon",
+        "height": "30 ft long",
+        "weight": "The council tried to weigh one but she just wouldn't have it. We decided not to pursue the matter",
+        "levels": [140],
+        "locations": [
+            "The Dragon's spirit dictates that their environment will reflect their nature. The Baby Blue Dragon likes to reside close to peaceful Taverley Lake, the Red Dragon prefers the red hot magma of the lava lake"
+        ],
+        "appearance": "As red as the RuneScape sun itself - and just as insistent!",
+        "description": "Strolls around areas of the wilderness at leisure. Keeping Players at bay with her powerful Dragon Breath. You might want to take measures to protect yourself from this",
+        "likes": "So-called \"Dragon Slayers\". They generally fail",
+        "dislikes": "Actual \"Dragon Slayers\"",
+        "ids": [201]
+    },
+    {
+        "name": "Renegade Knight",
+        "height": "6 ft 1in",
+        "weight": "210 lbs",
+        "levels": [51],
+        "locations": ["Morgan Le Faye Castle"],
+        "appearance": "Sinister",
+        "description": "Having parted company from the Knights of the Round Table, these renegades now worship Sir Mordred - the evil nemesis of King Arthur, their former master",
+        "likes": "Their independence.\nEven the most pure of heart would have to acknowledge that the Knights of the Round Table can be quite stuffy at the best of times",
+        "dislikes": "Strange deliveries to their otherwise impregnable fortress",
+        "ids": [277]
+    },
+    {
+        "name": "Rogue",
+        "height": "5ft 6in",
+        "weight": "200 lbs",
+        "levels": [21],
+        "locations": ["The wilderness"],
+        "appearance": "Friendly and approachable. But these are not your Shakesperian \"loveable old rogues\" - they're the kind that will happily stab you in the face.",
+        "description": "Rogueish.",
+        "likes": "To break the rules.",
+        "dislikes": "Most people",
+        "ids": [342]
+    },
+    {
+        "name": "Scorpion",
+        "height": "Up to 3 ft long",
+        "weight": "Up to 120 lbs",
+        "levels": [21, "36 (king scorpion)"],
+        "locations": [
+            "The poison and king scorpions can be found in the Taverley dungeon and the Dwarven Mine respectively"
+        ],
+        "appearance": "Like more aggressive lobsters",
+        "description": "Venomous. Scorpions inject potentially fatal poison into their victims. King scorpions are large and aggressive, so run first and ask questions later!",
+        "likes": "Stinging you with their tail",
+        "dislikes": "Quest happy \"Scorpion Catchers\"",
+        "ids": [70, 136]
+    },
+    {
+        "name": "Shadow Spider",
+        "height": "10 in",
+        "weight": "20 lbs",
+        "levels": [53],
+        "locations": [
+            "Can be found in dungeons - underneath the waterfall and in the wilderness where it makes full use of its natural camouflage"
+        ],
+        "appearance": "Some way between a spider and shadow. But by the time you've worked out whether it's there or not, these aggressive little monsters will have already drawn blood",
+        "description": "Clandestine - and they like the darkness too ",
+        "likes": "Hiding, waiting for the kill",
+        "dislikes": "Other spiders",
+        "ids": [343]
+    },
+    {
+        "name": "Sheep",
+        "height": "3 ft 6 in",
+        "weight": "230 lbs",
+        "levels": [0],
+        "locations": [
+            "There is a sheep farm close to Lumbridge, and a sheep pen in Ardougne"
+        ],
+        "appearance": "Like moving balls of fluff",
+        "description": "Passive and pastoral",
+        "likes": "Following each other around",
+        "dislikes": "Getting poked with cattle-prods\n(see Sheep Herder quest)",
+        "ids": [2]
+    },
+    {
+        "name": "Skeleton",
+        "height": "N/A: depends on previous wearer",
+        "weight": "100 lbs: more for people who are \"big-boned\"",
+        "levels": ["19-54"],
+        "locations": ["Ghost-town dungeon, Members' dungeon, Varrock sewers"],
+        "appearance": "Under-nourished",
+        "description": "Skeletons are said to descend from strange necromancers who unleashed whole armies of them during the wars of the third age. Higher-level skellys tend to be more aggressive, but all are equally mindless in their joyful pursuit of violence",
+        "likes": "Guarding doors in the name of Zamorak ",
+        "dislikes": "Archaeological digs",
+        "ids": [40, 45, 46, 50, 179, 195]
+    },
+    {
+        "name": "Thief",
+        "height": "5ft 9in",
+        "weight": "180 lbs",
+        "levels": [21],
+        "locations": ["The slums of Varrock, Brimhaven."],
+        "appearance": "Human",
+        "description": "Less violent than the muggers, thieves will generally try and lighten your load without actually drawing any blood. They have been known to hang out with pirates, usually discussing their latest blag.",
+        "likes": "Wealthy tourists",
+        "dislikes": "Being found out. But if new players do want to teach them a lesson, be aware that they are stronger than their mugger friends",
+        "ids": [64]
+    },
+    {
+        "name": "Thug",
+        "height": "6 ft",
+        "weight": "220 lbs",
+        "levels": [18],
+        "locations": [
+            "Thugs can be found in a variety of locations, and can be picked out by their loud bellowing and mistrust of strangers"
+        ],
+        "appearance": "Human-\noften quite scruffy",
+        "description": "Aimless. Thugs aren't even interested in your money- they just want to pick a fight. And with their brains sufficiently marinated in alcohol, they usually manage to get one",
+        "likes": "Making connections with new people- using their fists",
+        "dislikes": "Whichever gnomeball team you happen to support",
+        "ids": [251]
+    },
+    {
+        "name": "Tribesman",
+        "height": "6 ft",
+        "weight": "150 lbs",
+        "levels": [39],
+        "locations": ["Jungles of Brimhaven"],
+        "appearance": "skinny and mysterious",
+        "description": "lives in balance with nature, using his deadly spear attacks to hunt for food, and also sometimes for fun.",
+        "likes": "taking down large monsters with a single spear",
+        "dislikes": "being told his loin cloth needs a wash",
+        "ids": [421]
+    },
+    {
+        "name": "Unicorn",
+        "height": "5ft 6in",
+        "weight": "260 lbs",
+        "levels": [21, "31 (Black unicorn)"],
+        "locations": [
+            "Unicorns like to wander around woodland, such as the area south of Varrock, and the woods south of Edgeville"
+        ],
+        "appearance": "Like horses.\nBut with a horn",
+        "description": "Unicorns are passive creatures, and it has long been assumed that they have magical qualities. There can be no doubt that they have a special aura, which has a soothing influence on anyone they encounter. Black unicorns don't seem to share all these qualities, and remain a mystery to those that have sighted them",
+        "likes": "The tranquility of the forest",
+        "dislikes": "Any form of violence",
+        "ids": [0, 296]
+    },
+    {
+        "name": "Warrior Women",
+        "height": "6 ft",
+        "weight": "165 lbs",
+        "levels": [27],
+        "locations": ["Varrock castle"],
+        "appearance": "Muscular",
+        "description": "These women have decided to walk away from the domestic role that their society imposes upon them. Donning heavy armour, they take a stand against an increasingly chaotic world",
+        "likes": "Wielding large weapons",
+        "dislikes": "Over-familiar men",
+        "ids": [159]
+    },
+    {
+        "name": "White Knight",
+        "height": "5ft 11in",
+        "weight": "195 lbs",
+        "levels": [56],
+        "locations": [
+            "The White Knights have a castle in Falador which they call home"
+        ],
+        "appearance": "Shiny.\nThe White Knights never go out without buffing their armour first",
+        "description": "The goody-two-shoes of Runescape. People may respect the White Knights, but nobody really likes them. Yes, they fight the good fight against evil, but do they have to be so mincingly polite?",
+        "likes": "The sense of satisfaction from a job well done",
+        "dislikes": "Dishonesty.\nThe White Knights believe that they have nothing if they don't have their honour",
+        "ids": [102]
+    },
+    {
+        "name": "White Wolf",
+        "height": "Up to 7ft long",
+        "weight": "230 lbs",
+        "levels": [31, 41, "71 (Pack Leader)"],
+        "locations": ["In the pass of White Wolf Mountain"],
+        "appearance": "Lean and hungry looking, these tenacious beasts must steal themselves against the cold mountain air",
+        "description": "The wolves patrol the crucial pass in the north. Although of varying strengths, these aggressive animals can be relentless when pack hunting. Like a hazard of nature, white wolves essentially control this passage. So heed these words and pack plenty of provisions- or stay away from White Wolf Mountain",
+        "likes": "The recent rise in tourism through the mountain regions",
+        "dislikes": "Warmer weather, which can make them lethargic",
+        "ids": [239, 248, 249]
+    },
+    {
+        "name": "Witch",
+        "height": "5 ft 4in",
+        "weight": "150 lbs",
+        "levels": [25],
+        "locations": ["South Kharid, Draynor Manor"],
+        "appearance": "Gnarled fingers and a hooked nose",
+        "description": "Independent. Witches, although often considered evil, practise a craft which is in many way closer to the Druidic rituals than the minions of Zamorak. Shunned by a mistrustful society, however, these loners sometimes take to summoning up the forces of darkness against their enemies",
+        "likes": "Mixing things in their cauldron. It's all in the sauce",
+        "dislikes": "Most men. Some believe that the male obsession with a woman's appearance has isolated these old spinster women",
+        "ids": [79]
+    },
+    {
+        "name": "Wizard",
+        "height": "5 ft 8 in",
+        "weight": "160 lbs",
+        "levels": [16],
+        "locations": ["The Wizard's Tower"],
+        "appearance": "Human",
+        "description": "Legendary. The wizards hold a special place in Runescape's history. But it was their ill-advised alliance with the Dark Wizards that plunged the land into chaos. And many believe that their mastery of the rune no longer holds the power that it once did",
+        "likes": "A willing apprentice",
+        "dislikes": "The druids. The increasing scarcity of runestones has caused a growing sense of mistrust between these great practitioners of magical arts. This is a rift which the forces of evil are only too eager to exploit",
+        "ids": [81]
+    },
+    {
+        "name": "Zombie",
+        "height": "5ft 6in",
+        "weight": "180 lbs",
+        "levels": [19],
+        "locations": ["Varrock sewers- although there are also said to be an infestation in various other undisclosed locations"],
+        "appearance": "Mutilated pulsating masses of rotting flesh",
+        "description": "Twisted by an insane blood lust, they crave the flesh of anyone who dares come near them. Often unarmed, it is somewhat amazing that these creatures who can barely walk continue to inspire so much terror",
+        "likes": "The taste of human blood",
+        "dislikes": "People who can run fast",
+        "ids": [52]
+    }
+]

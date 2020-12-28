@@ -1,0 +1,28 @@
+{
+  "name": "@2003scape/rsc-bestiary",
+  "version": "1.0.0",
+  "description": "descriptions and GIFs of various creatures in runescape classic",
+  "main": "bestiary.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2003scape/rsc-bestiary.git"
+  },
+  "keywords": [
+    "runescape",
+    "classic",
+    "rsc",
+    "bestiary",
+    "npcs",
+    "monsters",
+    "gifs"
+  ],
+  "author": "2003Scape Team",
+  "license": "AGPL-3.0+",
+  "bugs": {
+    "url": "https://github.com/2003scape/rsc-bestiary/issues"
+  },
+  "homepage": "https://github.com/2003scape/rsc-bestiary#readme"
+}
