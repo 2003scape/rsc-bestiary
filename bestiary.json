@@ -347,7 +347,7 @@
         "name": "Goblin",
         "height": "5 ft 4 in",
         "weight": "180 lbs",
-        "levels": [7, "13 (spear"],
+        "levels": [7, "13 (spear)"],
         "locations": [
             "Goblins are common right across Runescape, and particularly in the goblin village of north Asgarnia; around Lumbridge, and the woods near Port Sarim"
         ],
@@ -932,7 +932,7 @@
         "height": "5ft 6in",
         "weight": "180 lbs",
         "levels": [19],
-        "locations": ["Varrock sewers- although there are also said to be an infestation in various other undisclosed locations"],
+        "locations": ["Varrock sewers - although there are also said to be an infestation in various other undisclosed locations"],
         "appearance": "Mutilated pulsating masses of rotting flesh",
         "description": "Twisted by an insane blood lust, they crave the flesh of anyone who dares come near them. Often unarmed, it is somewhat amazing that these creatures who can barely walk continue to inspire so much terror",
         "likes": "The taste of human blood",
