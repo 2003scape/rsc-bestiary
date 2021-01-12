@@ -1,6 +1,6 @@
 {
   "name": "@2003scape/rsc-bestiary",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "descriptions and GIFs of various creatures in runescape classic",
   "main": "./bestiary.json",
   "repository": {
